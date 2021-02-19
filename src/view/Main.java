@@ -27,7 +27,6 @@ public class Main extends PApplet {
 		
 
 	}
-
 	public void draw() {
 		background(255,255,0); 
 		guitarraTest.paintIt();
